@@ -1,0 +1,6 @@
+Learn Git revert command 2
+Learn Git revert command 2.5
+Learn Git revert command 3
+Learn Git revert command 1
+Learn Git revert command 4
+Learn Git revert command 5
