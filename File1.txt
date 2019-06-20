@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Learn Git revert command 2
 Learn Git revert command 2.5
 Learn Git revert command 3
-=======
 Learn Git revert command 1
->>>>>>> parent of c7ccd26... commit 2 PC2
